@@ -1,0 +1,1 @@
+export const SYMBOLS = ['IBM', 'AAPL', 'GOOGL', 'MSFT', 'AMZN', 'FB'];
